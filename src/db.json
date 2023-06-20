@@ -1,0 +1,36 @@
+{
+  "seller": [
+    {
+      "name": "Nazmul",
+      "email": "nahsan527@gmail.com",
+      "password": 123987,
+      "id": 1
+    },
+    {
+      "name": "Ahsan",
+      "email": "ahsan52@gmail.com",
+      "password": 456987,
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "name": "Nokia 1250",
+      "price": "3500",
+      "color": "Green",
+      "catagory": "Mobile",
+      "description": "Connect The Network",
+      "image": "",
+      "id": 1
+    },
+    {
+      "name": "Samsung",
+      "price": "50000",
+      "color": "White",
+      "catagory": "Mobile",
+      "description": "New in the Market",
+      "image": "",
+      "id": 2
+    }
+  ]
+}
