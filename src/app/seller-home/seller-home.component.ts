@@ -22,7 +22,6 @@ export class SellerHomeComponent {
   }
   list(){
     this.product.productList().subscribe((result)=>{
-      console.warn(result);
       this.productList = result
     })
   }

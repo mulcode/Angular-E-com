@@ -15,22 +15,85 @@
   ],
   "products": [
     {
-      "name": "Nokia 1250",
-      "price": "3500",
-      "color": "Green",
-      "catagory": "Mobile",
-      "description": "Connect The Network",
-      "image": "",
-      "id": 1
+      "name": "Oramio",
+      "price": "5000000",
+      "color": "Ash",
+      "catagory": "Bike",
+      "description": "Good Product",
+      "image": "assets/images/bike.jpg",
+      "id": 5
     },
     {
-      "name": "Samsung",
-      "price": "50000",
+      "name": "Apple MacBook",
+      "price": "120000",
       "color": "White",
-      "catagory": "Mobile",
+      "catagory": "Laptop",
       "description": "New in the Market",
-      "image": "",
-      "id": 2
+      "image": "assets/images/mac.jpg",
+      "id": 6
+    },
+    {
+      "name": "Mercerize",
+      "price": "5400000",
+      "color": "Red",
+      "catagory": "Car",
+      "description": "Enjoy Travel",
+      "image": "assets/images/car.jpg",
+      "id": 7
+    },
+    {
+      "name": "Xiomi",
+      "price": "35000",
+      "color": "Green",
+      "catagory": "Mobile",
+      "description": "Nice to Talk",
+      "image": "assets/images/pic.jpg",
+      "id": 8
+    },
+    {
+      "name": "Refrigerator",
+      "price": "250000",
+      "color": "Diomond",
+      "catagory": "Refrigerator",
+      "description": "Preserve your food",
+      "image": "assets/images/R.jpg",
+      "id": 9
+    },
+    {
+      "name": "Hp Laptop",
+      "price": "650000",
+      "color": "Silver",
+      "catagory": "Laptop",
+      "description": "Good for work",
+      "image": "assets/images/hp.jpg",
+      "id": 10
+    },
+    {
+      "name": "T-Shirt",
+      "price": "500",
+      "color": "Red",
+      "catagory": "Dress",
+      "description": "Comfortable",
+      "image": "assets/images/tshirt.png",
+      "id": 11
+    },
+    {
+      "name": "Shirt",
+      "price": "700",
+      "color": "Blue",
+      "catagory": "Dress",
+      "description": "Nice",
+      "image": "assets/images/shirt.png",
+      "id": 12
+    },
+    {
+      "name": "Shoe",
+      "price": "1200",
+      "color": "yellow",
+      "catagory": "Shoe",
+      "description": "Walking",
+      "image": "assets/images/shoe.jpg",
+      "id": 13
     }
   ]
 }
