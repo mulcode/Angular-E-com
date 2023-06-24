@@ -95,5 +95,108 @@
       "image": "assets/images/shoe.jpg",
       "id": 13
     }
+  ],
+  "users": [
+    {
+      "name": "nazmul",
+      "email": "nahsan@gmail.com",
+      "password": "123oi",
+      "id": 1
+    },
+    {
+      "name": "Ahona",
+      "mail": "ahsu@gmail.com",
+      "password": "asdf",
+      "id": 2
+    },
+    {
+      "name": "Ahona",
+      "mail": "ahsu@gmail.com",
+      "password": "qwe",
+      "id": 3
+    },
+    {
+      "name": "Ahona",
+      "mail": "ahsu@gmail.com",
+      "password": "qwe",
+      "id": 4
+    },
+    {
+      "name": "Ahona",
+      "mail": "ahsu@gmail.com",
+      "password": "dfh",
+      "id": 5
+    },
+    {
+      "name": "Ahona",
+      "mail": "ahsu@gmail.com",
+      "password": "qwe",
+      "id": 6
+    },
+    {
+      "name": "nazmul",
+      "mail": "nazmulahsanst@gmail.com",
+      "password": "1276",
+      "id": 7
+    },
+    {
+      "name": "Ahona",
+      "mail": "ahsu@gmail.com",
+      "password": "4566",
+      "id": 8
+    },
+    {
+      "name": "nazmul",
+      "mail": "nazmulahsanst@gmail.com",
+      "password": "764tueu",
+      "id": 9
+    },
+    {
+      "name": "Ahona",
+      "mail": "ahsu@gmail.com",
+      "password": "42633",
+      "id": 10
+    },
+    {
+      "name": "Ahona",
+      "mail": "ahsu@gmail.com",
+      "password": "2344",
+      "id": 11
+    },
+    {
+      "name": "Ahona",
+      "mail": "ahsu@gmail.com",
+      "password": "ddff",
+      "id": 12
+    },
+    {
+      "name": "Ahona",
+      "mail": "ahsu@gmail.com",
+      "password": "oop",
+      "id": 13
+    },
+    {
+      "name": "Ahona",
+      "mail": "ahsu@gmail.com",
+      "password": "rrrtt",
+      "id": 14
+    },
+    {
+      "name": "Ahona",
+      "email": "ahsu@gmail.com",
+      "password": "qwe",
+      "id": 15
+    }
+  ],
+  "carts": [],
+  "orders": [
+    {
+      "email": "ahsu@gmail.com",
+      "address": "d",
+      "contact": "65",
+      "totalPrice": 1900,
+      "userId": 15,
+      "id": 1
+    }
   ]
 }
